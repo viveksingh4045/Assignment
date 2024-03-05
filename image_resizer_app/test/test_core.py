@@ -2,7 +2,6 @@
 
 import pytest
 from django.test import RequestFactory
-from django.contrib.auth.models import User
 
 from core.views import index
 
